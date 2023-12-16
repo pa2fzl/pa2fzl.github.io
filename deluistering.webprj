@@ -1,0 +1,33 @@
+<!DOCTYPE webproject>
+<webproject>
+  <project type="Local" name="deluistering" encoding="utf8" enableEvents="true" >
+    <upload/>
+    <defaultDTD>-//w3c//dtd xhtml basic 1.0//en</defaultDTD>
+    <item url="" uploadstatus="1" />
+    <templates>templates/</templates>
+    <toolbars>toolbars/</toolbars>
+    <item url="templates/" uploadstatus="1" />
+    <item url="toolbars/" uploadstatus="1" />
+    <item url="briefpapier.pdf" uploadstatus="1" />
+    <item url="deluistering.session" uploadstatus="1" />
+    <item url="deluistering.webprj" uploadstatus="1" />
+    <item url="folder.pdf" uploadstatus="1" />
+    <item url="index.html" uploadstatus="1" />
+    <item url="vlam-1.pdf" uploadstatus="1" />
+    <item url="vlam3.pdf" uploadstatus="1" />
+    <item url="vlam4.pdf" uploadstatus="1" />
+    <item url="vlam5.pdf" uploadstatus="1" />
+    <item url="vlam5.tif" uploadstatus="1" />
+    <author>Tom Fossen</author>
+    <email>tom.fossen@xs4all.nl</email>
+    <debuggerclient persistentWatches="0" persistentBreakpoints="0" >Geen debugger</debuggerclient>
+    <exclude cvsignore="false" />
+    <teamdata>
+      <taskleaders/>
+      <subprojectleaders/>
+      <mailinglist address="" />
+    </teamdata>
+    <events/>
+    <annotations/>
+  </project>
+</webproject>
